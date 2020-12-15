@@ -10,5 +10,5 @@ I loved working on this project and once again I had the opportunity to learn ne
 
 
 <h1 align="center">
-    <a href="https://www.javascript.com/">🔗 JavaScrip</a>
+    <a href="https://www.javascript.com/">🔗 JavaScript</a>
 </h1>
